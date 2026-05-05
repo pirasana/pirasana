@@ -13,8 +13,12 @@ I’ve worked with a variety of tools across software development and design, su
 
 - **Languages:** Python, JavaScript, SQL  
 - **Web:** HTML, CSS, React  
-- **Tools:** Git, GitHub, Figma, VS Code  
 
+- **Backend / BaaS:** Supabase, Firebase  
+- **APIs:** OpenAI API, REST APIs, JSON  
+
+- **Tools:** Git, GitHub, Figma, VS Code
+  
 ## ⚡ Fun Facts
 
 - 🐶 I don’t have a dog, but I want one  
