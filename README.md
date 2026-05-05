@@ -14,7 +14,7 @@ Right now, my focus is on learning deeply, improving my technical skills, and ga
 - Web: HTML, CSS, React  
 - Tools: Git, GitHub, Figma, VS Code  
 
-# Fun Facts:
+## Fun Facts:
 - 🐶 I don’t have a dog, but I want one 
 - 🎶 enjoy playing piano and guitar  
 - 📺 I love the TV series *Derry Girls* 
