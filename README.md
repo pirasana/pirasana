@@ -9,15 +9,7 @@ Right now, I’m focused on learning deeply, improving my skills, and gaining mo
 
 ## 🛠️ Tech Stack
 
-I’ve worked with a variety of tools across software development and design, such as:
-
-- **Languages:** Python, JavaScript, SQL  
-- **Web:** HTML, CSS, React  
-
-- **Backend / BaaS:** Supabase, Firebase  
-- **APIs:** OpenAI API, REST APIs, JSON  
-
-- **Tools:** Git, GitHub, Figma, VS Code
+Python • JavaScript • React • SQL • Supabase • Firebase • Git • Figma
   
 ## ⚡ Fun Facts
 
