@@ -5,7 +5,7 @@ I’m building on my foundation in CS by focusing on strengthening my practical 
 
 I care about building software that is useful and meaningful. I enjoy thinking about how platforms are designed and how they can improve the way people interact with technology in everyday life.
 
-**Tech**: Python • JavaScript • React • SQL • Supabase • Firebase • Git • Figma
+**My tech stack includes, among other tools:** Python • JavaScript • React • SQL • Supabase • Firebase • Git • Figma
   
 ## ⚡ Fun Facts
 
