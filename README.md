@@ -1,23 +1,25 @@
-## Hi there 👋
+## Hi there 👋  
+I’m Pirasana. I studied Computer Science for my bachelor’s and I’m now pursuing a Master’s in Software Engineering.
 
-I’m Pirasana
+I’m building on my foundation in CS by focusing on strengthening my practical skills through graduate coursework and projects, while staying curious and engaged with new tools and ideas in the field.
 
-With a foundation in Computer Science from my bachelor’s degree, I’m now focusing on strengthening my practical software engineering skills through graduate coursework and projects, while staying engaged with new tools and developments in the field.
+I care about building software that is useful and meaningful. I enjoy thinking about how platforms are designed and how they can improve the way people interact with technology in everyday life.
 
-I’m passionate about building software that is useful and meaningful to society. I care about designing platforms that are not only functional, but also improve user experience and contribute positively to how people interact with technology.
+Right now, I’m focused on learning deeply, improving my skills, and gaining more experience through hands-on projects.
 
-Right now, my focus is on learning deeply, improving my technical skills, and gaining experience through hands-on projects.
+## 🛠️ Tech Stack
 
- I’ve worked with a variety of tools across software development and design, such as:
+I’ve worked with a variety of tools across software development and design, such as:
 
-- Languages: Python, JavaScript, SQL  
-- Web: HTML, CSS, React  
-- Tools: Git, GitHub, Figma, VS Code  
+- **Languages:** Python, JavaScript, SQL  
+- **Web:** HTML, CSS, React  
+- **Tools:** Git, GitHub, Figma, VS Code  
 
-## Fun Facts:
-- 🐶 I don’t have a dog, but I want one 
+## ⚡ Fun Facts
+
+- 🐶 I don’t have a dog, but I want one  
 - 🎶 I enjoy playing piano and guitar  
-- 📺 I love the TV series *Derry Girls* 
+- 📺 I love the TV series *Derry Girls*
 
 <!--
 **pirasana/pirasana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
