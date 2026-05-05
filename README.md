@@ -5,8 +5,6 @@ I’m building on my foundation in CS by focusing on strengthening my practical 
 
 I care about building software that is useful and meaningful. I enjoy thinking about how platforms are designed and how they can improve the way people interact with technology in everyday life.
 
-Right now, I’m focused on learning deeply, improving my skills, and gaining more experience through hands-on projects.
-
 ## 🛠️ Tech Stack
 
 Python • JavaScript • React • SQL • Supabase • Firebase • Git • Figma
